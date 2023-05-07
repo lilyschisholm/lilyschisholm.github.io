@@ -1,0 +1,127 @@
+body {
+    font-family: Courier, monospace, Helvetica, sans-serif;
+    background-color: #efd5b1;
+}
+
+#title {
+    color: #efd5b1;
+    padding: 0px 0px 0px 117px;
+}
+
+#profile-menu {
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.profile-menu-item {
+    font-size: 14px;
+    color: #efd5b1;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.profile-menu-item:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #d38313;
+}
+
+
+#crayon-image1 {
+    float: right;
+    position: relative;
+    top: -75px;
+    width: 90px;
+    padding: 0px 120px 0px 0px;
+}
+
+#profile-menu {
+    padding: 0px 110px;
+}
+
+#top {
+    background-color: #55370e;
+    padding: 3px 0px 25px 0px;
+}
+
+#firstp {
+    background-color: #a9e1fd;
+    width: 700px;
+    margin: 0px 110px;
+    padding: 40px 20px 40px 20px;
+    position: relative;
+    z-index: 2;
+}
+
+#secondp {
+    background-color: #a9e1fd;
+    width: 700px;
+    margin: 0px 100px;
+    padding: 30px 20px;
+    position: relative;
+    float: right;
+    z-index: 2;
+}
+
+#crayon3 {
+    width: 100px;
+    padding: 30px 0px 0px 120px;
+    position: relative;
+    z-index: 2;
+}
+
+#penguin1 {
+    float: right;
+    width: 65px;
+    padding: 10px 30px 0px 0px;
+    position: relative;
+    top: -60px;
+}
+
+#kero1 {
+    float: right;
+    width: 60px;
+    padding: 8px 35px 0px 0px;
+    position: relative;
+    top: -60px;
+}
+
+#fairy1 {
+    float: right;
+    width: 60px;
+    padding: 12px 40px 0px 0px;
+    position: relative;
+    top: -60px;
+}
+
+#puter {
+    width: 600px;
+    padding: 20px 420px;
+}
+
+
+.container {
+    float:right;
+    position: relative;
+    top: -40px;
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 1;
+}
+
+.pic {
+    width: 100px;
+    z-index:1;
+}
+
+figcaption {
+    margin-left: 420px;
+}
+
+#shin {
+    width: 110px;
+    float: right;
+    padding: 80px 0px 0px 500px;
+}
